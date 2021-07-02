@@ -6,6 +6,8 @@ This works by taking a set of results in a formatted excel spreadsheet and mergi
 
 The use case for this is quite specific but the rubric template could easily be modified. 
 
+There are two folders here Rubric Win and Rubric Mac. There's no difference in the VBA or the files. The only difference is the user guides. 
+
 ## How to use it.
 * Make a duplicate of the Rubric folder, including the sub folder. All the files should be in the same folder and there should be a folder called Feedback
 * Put all of your marks in the spreadsheet.
